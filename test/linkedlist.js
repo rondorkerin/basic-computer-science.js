@@ -1,5 +1,5 @@
 var expect    = require("chai").expect;
-var LinkedList = require("../lib/linkedlist");
+var LinkedList = require("../lib/linked_list");
 
 describe("Linked List", function() {
   describe("insert checkDuplicate false", function() {
